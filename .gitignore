@@ -3,3 +3,5 @@
 *.json
 
 lightning_logs
+data
+ffmpeg
