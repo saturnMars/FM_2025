@@ -7,8 +7,8 @@ This repository contains notebooks for the lab sessions of the Foundation Models
 ## Notebooks
 1. LAB 1: Metrics for Natural Language Generation (NLG) 
 2. LAB 2: Extract latent features from LLM embeddings by training a classification model
-3. 
-4. 
+3. LAB 3: Generate captions for videos
+4. LAB 4: LangChain tutorial
 
 ## Getting Started
 
