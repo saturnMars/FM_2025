@@ -5,3 +5,5 @@
 lightning_logs
 data
 ffmpeg-7.0.2-amd64-static
+
+.env
